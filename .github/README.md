@@ -4,11 +4,7 @@
 
 <p align="center">
   <img src="https://graph.org/file/e47d7251464ca14a7f576.jpg">
-</p>
-
-</a>
-<a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-orange?style=for-the-badge&logo=python" alt="Python" /> </a>
-<a href="https://github.com/AnonymousX1025/AnonXMusic/commits/AnonymousX1025"> <img src="https://img.shields.io/github/last-commit/Venomxboss/AnonXMusic?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
+    
 </p>
 
 <p align="center">
